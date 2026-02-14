@@ -2,7 +2,7 @@
 
 # Blog
 
-[quick_start.md](./blog/new.md) 
+[机械、灵光与意图](./blog/Aura.md) 
 
 # 联络
 
